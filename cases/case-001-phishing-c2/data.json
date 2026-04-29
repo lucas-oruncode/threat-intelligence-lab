@@ -1,0 +1,8 @@
+{
+  "url": "http://secure-update-check.net/update",
+  "file_name": "update_client.exe",
+  "hash_md5": "5d41402abc4b2a76b9719d911017c592",
+  "ip": "185.234.219.12",
+  "port": 4444,
+  "protocol": "TCP"
+}
