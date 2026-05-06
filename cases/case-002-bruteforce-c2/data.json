@@ -1,0 +1,10 @@
+{
+  "attacker_ip": "45.77.12.90",
+  "target_service": "SSH",
+  "url": "http://malicious-dropper.net/shell.sh",
+  "file_name": "shell.sh",
+  "hash_sha256": "a3f5c2e7b9d4e1f6a7b8c9d0e1f2a3b4c5d6e7f8g9h0i1j2k3l4m5n6o7p8q9",
+  "c2_ip": "185.199.110.153",
+  "port": 4444,
+  "protocol": "TCP"
+}
