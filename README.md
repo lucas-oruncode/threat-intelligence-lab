@@ -12,9 +12,10 @@ Desenvolver habilidades em:
 
 ## 📁 Casos
 
-| Caso | Tipo | Descrição |
-|------|------|----------|
-| Case 001 | Phishing + C2 | Malware via download |
+| Caso     | Tipo                          | Descrição                                      |
+|----------|-------------------------------|-----------------------------------------------|
+| Case 001 | Phishing + C2                 | Malware via download por engenharia social     |
+| Case 002 | Brute Force + Root + C2       | Comprometimento de servidor via SSH e execução de payload |
 
 
 ## 🛠️ Ferramentas
