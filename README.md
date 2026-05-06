@@ -33,4 +33,4 @@ pip install -r requirements.txt
 
 ## 📈 Evolução
 
-Casos adicionados diariamente para evolução contínua.
+Casos simulados adicionados para evolução contínua.
